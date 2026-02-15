@@ -3,7 +3,7 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10%"/><br>
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="40%"/><br>
 
-<h1>Hi 👋 I'm Youssef Eid</h1>
+<h1>Hi 👋 I'm JO</h1>
 <h3>Full Stack Web Developer | Laravel & React Specialist</h3>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=flat&color=blue)
@@ -15,10 +15,10 @@
 ## 🚀 About Me
 
 - 💻 Full Stack Web Developer (Frontend & Backend)
-- 🔥 متخصص في Laravel & Modern JavaScript
-- 🏗️ ببني أنظمة إدارة كاملة (ERP - CMS - E-Commerce)
-- ⚡ بحب الأداء العالي والكود النظيف
-- 🎯 هدفي أكون Top Web Engineer
+- 🔥 Specialized in Laravel and modern JavaScript ecosystems
+- 🏗️ I build complete management systems (ERP, CMS, E-Commerce)
+- ⚡ Focused on performance optimization and clean, maintainable code
+- 🎯 My goal is to become a Top Web Engineer
 
 ---
 
@@ -54,18 +54,12 @@
 
 ---
 
-## 🔥 Currently Working On
 
-- 🚀 Printing Press Management System
-- 💰 Personal Budgeting App
-- 🛒 Custom E-Commerce Stores
-
----
 
 ## 📫 Contact Me
 
 - 💼 Freelance Available
-- 📧 YourEmail@gmail.com
+- 📧 jo23kail@gmail.com
 - 🌐 Portfolio: Coming Soon...
 
 ---
