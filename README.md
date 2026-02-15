@@ -53,7 +53,7 @@
 
 - 💼 Freelance Available
 - 📧 jo23kail@gmail.com
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://[linkedin.com/in/your-linkedin-usernam](https://www.linkedin.com/in/jo-root-21a99738b/)e)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jo-root-21a99738b/)
 - 🌐 Portfolio: Coming Soon...
 
 
