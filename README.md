@@ -52,7 +52,7 @@
 ## 📫 Contact Me
 
 
-  [![Email](https://img.shields.io/badge/Email-YourEmail@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YourEmail@gmail.com)
+  [![Email](https://img.shields.io/badge/Email-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YourEmail@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jo-root-21a99738b/)
   
 - 💼 Freelance Available
