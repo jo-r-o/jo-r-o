@@ -54,6 +54,7 @@
 - 💼 Freelance Available
 - 📧 jo23kail@gmail.com
 - 🌐 Portfolio: Coming Soon...
+<img width="150" height="39" alt="brandg-linkedinlogo-hero-logo-dsk-v01 png original" src="https://github.com/user-attachments/assets/c47b07ab-e2c0-4a4f-a402-7f48c714bffb" />
 
 ---
 
